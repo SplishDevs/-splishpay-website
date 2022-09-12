@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('./SFUIDisplay/SFUIDisplay-Semibold.woff2') format('woff2'),
+        url('./SFUIDisplay/SFUIDisplay-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('./SFUIDisplay/SFUIDisplay-Regular.woff2') format('woff2'),
+        url('./SFUIDisplay/SFUIDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF UI Text';
+    src: url('./SFUIDisplay/SFUIText-Bold.woff2') format('woff2'),
+        url('./SFUIDisplay/SFUIText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('./SFUIDisplay/SFUIDisplay-Medium.woff2') format('woff2'),
+        url('./SFUIDisplay/SFUIDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
